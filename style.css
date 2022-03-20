@@ -51,7 +51,7 @@ body {
 }
 
 
-span{
+.about span{
     color: var(--dark-grayish-blue);
     font-weight: 400;
 }
