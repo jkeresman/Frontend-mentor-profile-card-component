@@ -51,7 +51,7 @@ body {
 }
 
 
-bdi{
+span{
     color: var(--dark-gray);
     font-weight: 400;
 }
